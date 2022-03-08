@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_btn_elevation">15dp</dimen>
+    <dimen name="page_num_text_bottom_margin">35dp</dimen>
+    <dimen name="fab_bottom_margin">32dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+</resources>

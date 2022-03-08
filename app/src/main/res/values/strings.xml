@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PecodeTest</string>
+    <string name="create_new_notification">Create new\nnotification</string>
+    <string name="notification_channel_reminder_name">Messenger</string>
+    <string name="notification_title">Chat heads active</string>
+    <string name="notification_message">Notification&#160;</string>
+</resources>
